@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\bin\Debug\net8.0\ArrayInitializingTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\bin\Debug\net8.0\ArrayInitializingTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\bin\Debug\net8.0\ArrayInitializingTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\bin\Debug\net8.0\ArrayInitializingTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\bin\Debug\net8.0\ArrayInitializingTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\obj\Debug\net8.0\ArrayInitializingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\obj\Debug\net8.0\ArrayInitializingTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\obj\Debug\net8.0\ArrayInitializingTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\obj\Debug\net8.0\ArrayInitializingTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\obj\Debug\net8.0\ArrayInitializingTask.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\obj\Debug\net8.0\ArrayInitializingTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\obj\Debug\net8.0\refint\ArrayInitializingTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\obj\Debug\net8.0\ArrayInitializingTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\obj\Debug\net8.0\ArrayInitializingTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayInitializingTask\obj\Debug\net8.0\ref\ArrayInitializingTask.dll
